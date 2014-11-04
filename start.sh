@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # XFCE - FTB Artifact Fix (XFart.f?)
-# Copyright 2014 RWM.
+# Copyright 2014 CheerLeone.
 # License: GPL-V2.0
 
 # This script disables XFCE compositing prior to executing the FTB Launcher,
