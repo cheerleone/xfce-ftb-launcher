@@ -76,6 +76,7 @@ function enableCompositorOnLoad() {
     echo -e "\n[$0] launcher loaded"
 
     # re-enable compositing
+    sleep 1; # sleep - /sigh
     echo "[$0] enabling compositor"
     compositorOn;
 }
